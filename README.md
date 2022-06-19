@@ -5,6 +5,9 @@
 ## Github URL
 
 [tmashoro](https://github.com/tmashoro/)
+
+## Video Link
+
 [Video Link](https://drive.google.com/file/d/1TdhcD794Fc1iUj0sc7IYooNb3HQ7_9mC/view)
 
 ## Description
