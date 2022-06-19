@@ -1,6 +1,6 @@
-# Generate ReadMe File
+# Generate A readMe File
 
-![GitHub license](https://img.shields.io/badge/license-BSD2-yellowgreen.svg)
+![GitHub license](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
 
 ## Github URL
 
@@ -8,7 +8,7 @@
 
 ## Description
 
-This is an application that generates a readme file.
+Its an application that generates a readme file
 
 ## Table of Contents 🗒
 
@@ -30,13 +30,13 @@ npm install
 
 ## Usage
 
-Used to generate a ReadMe File
+Used to generate a ReadMe file
 
 ## license 📛
 
-      Copyright © BSD2. All rights reserved. 
+      Copyright © GPL3.0. All rights reserved. 
       
-      Licensed under the BSD2 license.
+      Licensed under the GPL3.0 license.
 
 ## Contributors
 
