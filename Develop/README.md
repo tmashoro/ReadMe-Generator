@@ -1,40 +1,50 @@
-# tanaka Repo
-![GitHub license](https://img.shields.io/badge/license-undefined-yellowgreen.svg)
-## Github URL 
-[tanaka](https://github.com/tanaka/)
+# ReadMe file about a ReadMe
+
+![GitHub license](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
+
+## Github URL
+
+[tafadzwa](https://github.com/tafadzwa/)
 
 ## Description
-Its a rope generating file. its the finished file
+
+I created a ReadMe using Node.
 
 ## Table of Contents 🗒
 
 * [Installations](#dependencies)
+
 * [Usage](#usage)
 
 * [License](#license)
 
 * [Contributors](#contributors)
+
 * [Test](#test)
 
-## Installations 
+## Installations
 
 To install dependencies, run these commands:
 
-npm i
+npm install
 
-## Usage 
+## Usage
 
-used to create a repo
+You can use it for anything you want
+
 ## License 📛
-      Copyright © undefined. All rights reserved. 
+
+      Copyright © GPL3.0. All rights reserved. 
       
-      Licensed under the undefined license.
+      Licensed under the GPL3.0 license.
 
 ## Contributors
 
-tanaka mashboro
-Contact me at tanaka@gmail.com
-Github information  [tanaka](https://github.com/tanaka/)
+Tafadzwa
+
+Contact me at tafadzwa@gmail.com
+
+Github information  [tafadzwa](https://github.com/tafadzwa/)
 
 ## Test
 
