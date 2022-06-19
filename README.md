@@ -37,7 +37,10 @@ To generate a profesional ReadMe.md
 ## Contributors (contributors)
 
  Terrence Mashoro
+
  [Contact Info] (tmashoro@gmail.com)
+
+[tmashoro](https://github.com/tmashoro/)
 
 ## Test (test)
 
