@@ -1,19 +1,25 @@
-# feger ege rewge 
+# Generate ReadMe File
+
 ![GitHub license](https://img.shields.io/badge/license-BSD2-yellowgreen.svg)
-## Github URL 
-[wfwfdssdf](https://github.com/wfwfdssdf/)
+
+## Github URL
+
+[tmashoro](https://github.com/tmashoro/)
 
 ## Description
-reg veger vfeger 
+
+This is an application that generates a readme file.
 
 ## Table of Contents 🗒
 
 * [Installations](#dependencies)
+
 * [Usage](#usage)
 
 * [License](#license)
 
 * [Contributors](#contributors)
+
 * [Test](#test)
 
 ## dependencies
@@ -22,19 +28,23 @@ To install dependencies, run these commands:
 
 npm install
 
-## Usage 
+## Usage
 
-erwg gergre ewrw g
+Used to generate a ReadMe File
+
 ## license 📛
+
       Copyright © BSD2. All rights reserved. 
       
       Licensed under the BSD2 license.
 
 ## Contributors
 
-erg fernjyj nht 
-Contact me at erwbhjre@gmail.com
-Github information  [wfwfdssdf](https://github.com/wfwfdssdf/)
+T Mashoro
+
+Contact me at tmashoro@gmail.com
+
+Github information  [tmashoro](https://github.com/tmashoro/)
 
 ## Test
 

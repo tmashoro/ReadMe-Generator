@@ -30,10 +30,11 @@ npm install
 
 ## usage
 
-  `
-    ![Getting Started](./Develop/assets/2022-06-18%20(3).png)
+  ![Getting Started](./Develop/assets/2022-06-18%20(3).png)
+  
+ ![Getting Started](./Develop/assets/2022-06-19(1).png)
 
-`
+ ![Getting Started](./Develop/assets/2022-06-19%20(2).png)
 
 This tool will allow user to create a README.md
 

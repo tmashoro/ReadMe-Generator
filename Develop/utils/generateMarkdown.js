@@ -1,19 +1,25 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+
 ${renderBadge(data.license)}
-## Github URL 
+
+## Github URL
+
 [${data.github}](https://github.com/${data.github}/)
 
 ## Description
+
 ${data.description}
 
 ## Table of Contents 🗒
 
 * [Installations](#dependencies)
+
 * [Usage](#usage)
 ${renderLink(data.license)}
 * [Contributors](#contributors)
+
 * [Test](#test)
 
 ## dependencies
@@ -22,15 +28,18 @@ To install dependencies, run these commands:
 
 ${data.dependencies}
 
-## Usage 
+## Usage
 
 ${data.usage}
+
 ${renderSection(data.license)}
 
 ## Contributors
 
 ${data.contributers}
+
 Contact me at ${data.email}
+
 Github information  [${data.github}](https://github.com/${data.github}/)
 
 ## Test
@@ -65,6 +74,7 @@ function renderSection(license) {
   if (license !== "None") {
     return (
       `## license 📛
+
       Copyright © ${license}. All rights reserved. 
       
       Licensed under the ${license} license.`
