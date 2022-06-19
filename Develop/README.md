@@ -1,50 +1,40 @@
-# ReadMe file about a ReadMe
-
-![GitHub license](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
-
-## Github URL
-
-[tafadzwa](https://github.com/tafadzwa/)
+# feger ege rewge 
+![GitHub license](https://img.shields.io/badge/license-BSD2-yellowgreen.svg)
+## Github URL 
+[wfwfdssdf](https://github.com/wfwfdssdf/)
 
 ## Description
-
-I created a ReadMe using Node.
+reg veger vfeger 
 
 ## Table of Contents 🗒
 
 * [Installations](#dependencies)
-
 * [Usage](#usage)
 
 * [License](#license)
 
 * [Contributors](#contributors)
-
 * [Test](#test)
 
-## Installations
+## dependencies
 
 To install dependencies, run these commands:
 
 npm install
 
-## Usage
+## Usage 
 
-You can use it for anything you want
-
-## License 📛
-
-      Copyright © GPL3.0. All rights reserved. 
+erwg gergre ewrw g
+## license 📛
+      Copyright © BSD2. All rights reserved. 
       
-      Licensed under the GPL3.0 license.
+      Licensed under the BSD2 license.
 
 ## Contributors
 
-Tafadzwa
-
-Contact me at tafadzwa@gmail.com
-
-Github information  [tafadzwa](https://github.com/tafadzwa/)
+erg fernjyj nht 
+Contact me at erwbhjre@gmail.com
+Github information  [wfwfdssdf](https://github.com/wfwfdssdf/)
 
 ## Test
 

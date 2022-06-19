@@ -16,7 +16,7 @@ ${renderLink(data.license)}
 * [Contributors](#contributors)
 * [Test](#test)
 
-## Installations 
+## dependencies
 
 To install dependencies, run these commands:
 
@@ -64,7 +64,7 @@ function renderLink(license) {
 function renderSection(license) {
   if (license !== "None") {
     return (
-      `## License 📛
+      `## license 📛
       Copyright © ${license}. All rights reserved. 
       
       Licensed under the ${license} license.`

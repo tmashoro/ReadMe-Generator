@@ -13,28 +13,51 @@ It is a Node.js based tool where users can use to generate a read me file for re
 ## Table of Contents
 
 * [Installations](#dependencies)
+
 * [Usage](#usage)
+
 * [License](#license)
+
 * [Contributors](#contributors)
+
 * [Test](#test)
 
-## Installations (Dependencies)
+## dependencies
 
 To install dependencies, run the following code:
 
 npm install
 
-## Usage (usage)
+## usage
 
-To generate a profesional ReadMe.md
 
-## License (license)
+This tool will allow user to create a README.md
+
+Users will be asked to enter their Github username
+
+Users will be asked to enter their email
+
+Users need to provide the title of the project
+
+Users can describe the project
+
+Users will need to provide license if there's any
+
+Users will be asked if there's any dependencies
+
+Users will be asked if there's a test to run
+
+Users need to provide the usage of the project
+
+Users will be asked to  list the contributors
+
+## license
 
     Copyright © MIT. All rights reserved. 
 
       Licensed under the MIT license.
 
-## Contributors (contributors)
+## contributors
 
  Terrence Mashoro
 
@@ -42,7 +65,7 @@ To generate a profesional ReadMe.md
 
 [tmashoro](https://github.com/tmashoro/)
 
-## Test (test)
+## test
 
 To run tests, run these commands:
 
