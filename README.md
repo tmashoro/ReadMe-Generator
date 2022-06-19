@@ -30,10 +30,10 @@ npm install
 
 ## usage
 
-  ```md
-    ![alt text](assets/2022-06-18 (3).png)
-    ```
+  `
+    ![Getting Started](./Develop/assets/2022-06-18%20(3).png)
 
+`
 
 This tool will allow user to create a README.md
 
