@@ -24,4 +24,23 @@ To install dependencies, run the following code:
 
 npm i
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Usage (usage)
+
+To generate a profesional ReadMe.md
+
+## License (license)
+
+    Copyright © MIT. All rights reserved. 
+
+      Licensed under the MIT license.
+
+## Contributors (contributors)
+
+ Terrence Mashoro
+ [Contact Info] (tmashoro@gmail.com)
+
+## Test (test)
+
+To run tests, run these commands:
+
+npm test

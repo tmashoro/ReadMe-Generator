@@ -33,32 +33,10 @@ const questions = [
     },
 
     {
-        type: "input",
+        type: "list",
         name: "licenses",
         message: "What license does your project have?",
-        choices: [
-            
-            {
-                key: 'a',
-                value: 'MIT',
-            },
-            {
-                key: 'b',
-                value: 'APACHE2.0',
-            },
-
-            {
-
-                key: 'c',
-                value: 'Boost1.0',
-                
-            },
-
-            {
-                key: 'd',
-                value: 'None',
-            }
-            ],
+        choices: ['MIT','Apache', 'None', '']
     },
 
     {
