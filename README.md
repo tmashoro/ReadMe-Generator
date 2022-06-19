@@ -22,7 +22,7 @@ It is a Node.js based tool where users can use to generate a read me file for re
 
 To install dependencies, run the following code:
 
-npm i
+npm install
 
 ## Usage (usage)
 

@@ -1,49 +1,42 @@
-# Github papi
-
+# tanaka Repo
 ![GitHub license](https://img.shields.io/badge/license-undefined-yellowgreen.svg)
-
-## Github URL
-
-[shosholoza](https://github.com/shosholoza/)
+## Github URL 
+[tanaka](https://github.com/tanaka/)
 
 ## Description
-
-hameno ikooko ziso rako rakakumaka
+Its a rope generating file. its the finished file
 
 ## Table of Contents 🗒
 
 * [Installations](#dependencies)
-
 * [Usage](#usage)
 
 * [License](#license)
 
 * [Contributors](#contributors)
-
 * [Test](#test)
 
-## Installations (Dependencies)
+## Installations 
 
 To install dependencies, run these commands:
 
 npm i
 
-## Usage
+## Usage 
 
-for whatever baby
-
+used to create a repo
 ## License 📛
-
       Copyright © undefined. All rights reserved. 
       
       Licensed under the undefined license.
 
 ## Contributors
 
-tafadzwa, terrence, ruth
-Contact me at shosholoza@gmail.com
+tanaka mashboro
+Contact me at tanaka@gmail.com
+Github information  [tanaka](https://github.com/tanaka/)
 
-## Tests
+## Test
 
 To run tests, run these commands:
 

@@ -36,14 +36,14 @@ const questions = [
         type: "list",
         name: "licenses",
         message: "What license does your project have?",
-        choices: ['MIT','Apache', 'None', '']
+        choices: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "BSD2" ,"BSD3", "None"]
     },
 
     {
         type: "input",
         name: "dependencies",
         message: "Any dependencies to install?",
-        default: "npm i"
+        default: "npm install"
     },
 
     {
@@ -64,6 +64,7 @@ const questions = [
         name: "contributers",
         message: "Who are the contributers of this repo?",
     }
+
 
 ];
 

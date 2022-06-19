@@ -16,20 +16,25 @@ ${renderLink(data.license)}
 * [Contributors](#contributors)
 * [Test](#test)
 
-## Installations (Dependencies) 
+## Installations 
+
 To install dependencies, run these commands:
 
 ${data.dependencies}
 
 ## Usage 
+
 ${data.usage}
 ${renderSection(data.license)}
 
 ## Contributors
+
 ${data.contributers}
 Contact me at ${data.email}
+Github information  [${data.github}](https://github.com/${data.github}/)
 
-## Tests
+## Test
+
 To run tests, run these commands:
 
 ${data.test}
